@@ -11,13 +11,13 @@ Determine the most active participants in the chat.
 Visualize the data with charts and graphs such as monthly timeline, weekly activity heatmap,most busy months etc.
 
 # Requirements
-python
-pycharm
-stramlit
-seaborn
-matplotlib
-numpy
-pandas
+python,
+pycharm,
+stramlit,
+seaborn,
+matplotlib,
+numpy,
+pandas,
 
 # Usage
 1.Export the WhatsApp chat from the WhatsApp application on your device. Ensure that you choose the "Without Media" option to obtain a '.txt' file containing the chat data.
