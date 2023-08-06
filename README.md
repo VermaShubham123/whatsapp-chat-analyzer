@@ -8,6 +8,4 @@
 Analyze WhatsApp chat data exported from WhatsApp in .txt format.
 Calculate the total number of messages sent by each participant.
 Determine the most active participants in the chat.
-Find out the average number of messages per day and per participant.
-Get the most frequently used words in the chat.
-Visualize the data with charts and graphs.
+Visualize the data with charts and graphs such as monthly timeline, weekly activity heatmap,most busy months etc.
